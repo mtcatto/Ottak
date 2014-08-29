@@ -21,7 +21,7 @@ namespace HelloWorld
         {
             System.Windows.Forms.MessageBox.Show("gfy 1", "caption 1", MessageBoxButtons.YesNoCancel);
         }
-
+            
         private void btnGFY2_Click(object sender, EventArgs e)
         {
             System.Windows.Forms.MessageBox.Show("gfy 2", "caption 2", MessageBoxButtons.OK);
